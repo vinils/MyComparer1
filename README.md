@@ -7,9 +7,14 @@ After some years and a lot of unduly backups I end up with 8 Terabyte of duplica
 There were almost 400,000 folder and more than 2,000,000 files. To help to go through directory tree as faster as possible, which could be done in parallel, the project List was created.
 
 4 elements (A, B, C, D) results in 6 comparations (AB, AC, AD, BC, BD, CD)
+<br />
+C<sub>n,p</sub> =<u>&nbsp; &nbsp; &nbsp; n! &nbsp; &nbsp;&nbsp;</u><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; p! (n &ndash; p)!<br />
+<br />
+
 ```
-Cn,p =      n!
-          p! (n – p)!
+Cn,p =      n!                =   24    =   24   =  6
+          p! (n – p)!           2*(4-2)     4
 n-> number of item (4)
 p-> items in comparation (2)
 ```
