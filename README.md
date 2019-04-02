@@ -1,4 +1,4 @@
-# MyComparer (C#)
+# MyComparer
 
 This project was created to identify and remove duplicated files in large quantity, under unstable connection and in the messiest organizations scenarios as possible.
 
